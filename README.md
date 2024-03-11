@@ -1,9 +1,9 @@
-##Technology
+## Technology
 - PHP laravel
 - MySQL
 - Docker
 
-##Getting Started
+## Getting Started
 To get started with our project, follow these steps:
 
 - Clone the repository to your local machine.
